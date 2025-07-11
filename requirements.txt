@@ -1,0 +1,10 @@
+
+streamlit
+tensorflow
+librosa
+matplotlib
+pandas
+scikit-learn
+sounddevice
+scipy
+plotly
